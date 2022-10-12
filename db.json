@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "message": "Fixed hard drive on workstation in 002",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-04-20T06:36:52.386Z",
+      "id": 2
+    },
+    {
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2020-04-20T06:37:23.140Z",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "message": "Changed Network card at server 002",
+      "attention": false,
+      "tech": "Varun Sharma",
+      "date": "2020-04-21T16:41:10.167Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
