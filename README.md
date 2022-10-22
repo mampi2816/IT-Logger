@@ -75,4 +75,4 @@ IT logger app provides a JSON-API for third-party apps.<br> <br>
 :raised_hands: Feel free to reach out if any issues 
 
 ## :busts_in_silhouette: Maintainer
-- [Varun Sharma](https://github.com/varunswing)
+- [Mampi Bhattacharya](https://github.com/mampi2816)
